@@ -2,15 +2,609 @@
     "data": [
         {
             "sno": "1",
-            "name": " Virus Research and Diagnostic Laboratory, STNM Hospital, Gangtok ",
+            "name": "King George Medical University, Lucknow",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Intermediate Reference Laboratory, STNM Hospital, Gangtok",
+            "name": " Institute of Medical Sciences, Banaras Hindu University, Varanasi",
             "type": "Government",
-            "test_type": "True NAD"
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Jawaharlal Nehru Medical College, Aligarh",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Command Hospital, Lucknow ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Lala Lajpat Rai Memorial Medical College, Meerut",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Sanjay Gandhi Post Graduate Institute, Lucknow",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " MLN Medical College, Allahabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Uttar Pradesh University of Medical Sciences Formerly Uttar Pradesh RIMS , Saifai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " MLB Medical College, Jhansi",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " ICMR Regional Medical Research Centre, Gorakhpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " SN Medical College, Agra",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " ICMR National JALMA Institute for Leprosy Other Mycobacterial Diseases, Agra",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " RML Institute of Medical Sciences, Lucknow",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Govt Institute of Medical Sciences, Noida",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " GSVM Medical College, Kanpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " National Institute of Biologicals, Noida High throughput Laboratory ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " BRD Medical College, Gorakhpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Indian Institute of Toxicology Research, Lucknow ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Birbal Sahni Institute of Palaeosciences, Lucknow",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Central Drug Research Institute, Lucknow",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " ICAR Indian Veterinary Research Institute IVRI , Izatnagar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " Super Specialty Pediatric Hospital and Postgraduate Teaching Institute SSPHPGTI , Noida",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " College of Veterinary Sciences and Animal Husbandry, UP Pt Deen Dayal Upadhyaya Pashu Chikitsa Vishwavidyalaya evam Go Anusandhan Sansthan, Mathura ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " District Combined Hospital, District Balrampur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "25",
+            "name": " District Combined Hospital, District Basti",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "26",
+            "name": " Sarojani Naidu Samarak Hospital, District Firozabad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "27",
+            "name": " Babu Eswar Saran District Hospital, Gonda",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "28",
+            "name": " Amar Shahid late Uma Nath Singh District Hospital, Jaunpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "29",
+            "name": " District Hospital, Bahraich ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "30",
+            "name": " District Male Hospital, Ayodhya",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "31",
+            "name": " District Combined Hospital, Mahrajganj",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "32",
+            "name": " District Femal Hospital, Muzaffarnagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "33",
+            "name": " District Male Hospital, Pratapgarh",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "34",
+            "name": " District Hospital, Ballia",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "35",
+            "name": " Pt Ramprasad Bismil, District Combined Hospital Shahjahanpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "36",
+            "name": " Bairister Yusuf Emam, Divisional Hospital, Mirzapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "37",
+            "name": " Mahatama Gandhi, District Combined Hospital, Siddharth Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "38",
+            "name": " Balrampur Hospital, Lucknow",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "39",
+            "name": " Malkhan Singh Joint District Hospital, Aligarh",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "40",
+            "name": " District Hospital, Ambedkar Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "41",
+            "name": " Pt Din Dayal Upahadhy, District Combined Hospital, Moradabad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "42",
+            "name": " Motilal Nehru Divisional Hospital, Prayagraj",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "43",
+            "name": " Divisional Hospital, Azamgarh",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "44",
+            "name": " District Male Hospital, Budaun",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "45",
+            "name": " Babu Mohan Singh, Joint District Hospital, Deoria ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "46",
+            "name": " Bheemrao Ambedkar Multi Superspeciality District Hospital, G B Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "47",
+            "name": " Netaji Subhash Chandra Bose District Hospital, Gorakhpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "48",
+            "name": " Rana Devi Madhav Singh, District Hospital, Raebareli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "49",
+            "name": " District Hospital, Sultanpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "50",
+            "name": " Maharana Pratap Joint District Hospital, Bareily",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "51",
+            "name": " Rafi Ahmad Kidwai memorial District Hospital, Barabanki",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "52",
+            "name": " District Hospital, Etah",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "53",
+            "name": " M M G District Hospital, Ghaziabad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "54",
+            "name": " Joint District Hospital, Manjhanpur, Kaushambi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "55",
+            "name": " District Male Hospital, Sitapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "56",
+            "name": " District Male Hospital, Kheri",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "57",
+            "name": " Babu Banarasi Das govt District Hospital, Bulandsahar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "58",
+            "name": " District Hospital, Agra",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "59",
+            "name": " Joint District Hospital, Amethi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "60",
+            "name": " District Hospital, Baghpat ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "61",
+            "name": " District Male Eye Hospital, Padrauna, Kushinagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "62",
+            "name": " U H M District Male Hospital, Kanpur Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "63",
+            "name": " P L Sharma District Hospital, Meerut",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "64",
+            "name": " Shadilal Memorial Community Health Centre, Shamli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "65",
+            "name": " Uma Shankar Dixit Joint District Hospital, Unnao",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "66",
+            "name": " S S P G District Hospital, Varanasi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "67",
+            "name": " Beded District Hospital, Aauraiya",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "68",
+            "name": " District Hospital, Banda",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "69",
+            "name": " District Combined Hospital, Bijnor",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "70",
+            "name": " Pt Kamlapati Tripathi Joint District Hospital, Chandauli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "71",
+            "name": " Joint District Hospital, Chitrakoot",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "72",
+            "name": " Dr Bheemrao Ambedkar District Hospital, Etawah",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "73",
+            "name": " Dr Ram Manohar Lohia District Hospital, Farrukabad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "74",
+            "name": " District Hospital, Fatehpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "75",
+            "name": " Dr Mukhtar Ansari District Hospital, Ghazipur ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "76",
+            "name": " Deewan Satrughan District Hospital, Hamirpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "77",
+            "name": " District Hospital, Hapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "78",
+            "name": " Pt Ramdayal Trivedi District Hospital, Hardoi Bangla District Hospital, Hathras",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "79",
+            "name": " Joint District Hospital, J P Nagar District Male Hospital, Jalaun Divisional District Hospital, Jhansi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "80",
+            "name": " Beded District Hospital, Kannauj Joint District Hospital, Akbarpur, Kanpur Dehat",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "81",
+            "name": " Joint District Hospital, Kanshiram Nagar Manywar Kanshiram Joint District Hospital, Lalitpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "82",
+            "name": " District Hospital, Mahoba",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "83",
+            "name": " Maharaja Tez Singh District Hospital, Mainpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "84",
+            "name": " Mahrishi Dayanad Saraswati District Hospital, Mathura",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "85",
+            "name": " District Hospital, Ghazipur Tiraha, Mau Joint District Hospital, Pilibhit",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "86",
+            "name": " District Hospital, Rampur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "87",
+            "name": " Seth Baldev Das District Hospital, Saharanpur ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "88",
+            "name": " Joint District Hospital, Manjhanpur, Sambhal Joint District Hospital, Sant Kabir Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "89",
+            "name": " Maharaja Balwant District Hospital, Santravidas Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "90",
+            "name": " Joint District Hospital, Bhinga, Shrawasti Joint District Hospital, Robertsganj, Sonbhadra",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "91",
+            "name": " Air Force Hospital, Gorakhpur ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "92",
+            "name": "RML Mehrotra Pathology Pvt Ltd, Nirala Nagar, Lucknow",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "93",
+            "name": " Dept of Lab Medicine, Jaypee Hospital, Sector , Noida",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "94",
+            "name": " Central Lab, Sharda Hospital, Plot no , , Knowledge Park III, Greater Noida ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "95",
+            "name": " Medical Testing Lab, Yashoda Superspeciality Hospital, H ,Kaushambi, Ghaziabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "96",
+            "name": " Heritage Speciality Lab, Lanka, Varanasi",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "97",
+            "name": " Gian Life Care Ltd, , Swaroop Nagar, Kanpur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "98",
+            "name": " Dept of Microbiology, Apollomedics Super Speciality Hospitals, KBC , Sector B, LDA Colony, Kanpur Road, Lucknow",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "99",
+            "name": " Scientific Pathology Agra, Durga Commercial Complex, Hariparwat Delhi Gate, Agra",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "100",
+            "name": " Department of Lab Sciences, Regency Hospital, A , Sarvodaya Nagar, Kanpur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "101",
+            "name": " Charakdhar Diagnostics Pvt Ltd Basement, Tulsidas Marg, Chowk, Near King George Medical University, Lucknow ",
+            "type": "Private",
+            "test_type": "CB NAAT"
         }
     ]
 }
